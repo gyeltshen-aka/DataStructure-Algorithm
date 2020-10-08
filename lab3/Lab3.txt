@@ -1,0 +1,12 @@
+1. Write a java program to sort an array using the following techniques:
+	i.   Insertion sorting
+	ii.  Selection Sorting
+	iii. Bubble Sorting 
+	iv.  Merge Sorting
+
+	Note the following rules are to be followed in all type of Sorting:
+	Expected: Display the array that is to be sorted then show the sorted array.
+
+	Constraint: The length of the array should not be the initialized or finalized but be defined to the length of the given array eg. n = a.length;
+
+
